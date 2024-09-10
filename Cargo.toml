@@ -6,6 +6,7 @@ license = "MIT"
 keywords = ["http", "websocket", "ws"]
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/cheeseboi12345/rusty-socket"
 
 [dependencies]
 smol = "2.0.2"
