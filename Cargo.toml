@@ -1,0 +1,15 @@
+[package]
+name = "rusty-socket"
+description = "A minimal websocket implementation"
+authors = ["cheeseboi12345 <jsmithington479@gmail.com>"]
+license = "MIT"
+keywords = ["http", "websocket", "ws"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+smol = "2.0.2"
+thiserror = "1.0.63"
+sha1 = "0.10.6"
+base64 = "0.22.1"
+rand = "0.8.5"
